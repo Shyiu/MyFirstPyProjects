@@ -1,3 +1,4 @@
+# Number Wizard code
 min=0
 max=1001
 print("Hello I am a number wizard, I will guess your number. Tell me if I get it right!")
